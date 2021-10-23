@@ -1,0 +1,11 @@
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\bin\Debug\AppAkonBD.dll.config
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\bin\Debug\AppAkonBD.dll
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\bin\Debug\AppAkonBD.pdb
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\bin\Debug\EntityFramework.dll
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\bin\Debug\EntityFramework.xml
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\obj\Debug\AppAkonBD.csproj.CoreCompileInputs.cache
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\obj\Debug\AppAkonBD.csproj.CopyComplete
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\obj\Debug\AppAkonBD.dll
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\obj\Debug\AppAkonBD.pdb

@@ -1,0 +1,12 @@
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\bin\Release\AppAkonBD.dll.config
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\bin\Release\AppAkonBD.dll
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\bin\Release\AppAkonBD.pdb
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\bin\Release\EntityFramework.dll
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\bin\Release\EntityFramework.xml
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\obj\Release\AppAkonBD.csproj.AssemblyReference.cache
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\obj\Release\AppAkonBD.csproj.CoreCompileInputs.cache
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\obj\Release\AppAkonBD.csproj.CopyComplete
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\obj\Release\AppAkonBD.dll
+C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\obj\Release\AppAkonBD.pdb
