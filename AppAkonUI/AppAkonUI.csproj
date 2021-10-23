@@ -109,6 +109,7 @@
     <Content Include="Views\web.config" />
     <None Include="packages.config" />
     <Content Include="Views\Usuario\ListadoUsuarios.cshtml" />
+    <Content Include="Views\Usuario\MostrarFormulario.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

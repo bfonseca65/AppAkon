@@ -22,7 +22,13 @@ namespace AppAkonBD.Repositorios
 
         public int CrearUsuario(Usuario pUsuario)
         {
-            throw new NotImplementedException();
+            int n = 0;
+            using (AlissEntities contextoBD = new AlissEntities())
+            {
+                contextoBD.Usuarios.Add(pUsuario);
+               n = contextoBD.SaveChanges();
+            }
+            return n;
         }
 
         public IEnumerable<Usuario> ListadoUsuarios()

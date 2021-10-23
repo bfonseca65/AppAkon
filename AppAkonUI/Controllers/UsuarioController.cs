@@ -25,5 +25,17 @@ namespace AppAkonUI.Controllers
              
             return View(listaUsuarios);
         }
+
+        public ActionResult MostrarFormulario()
+        {
+            return View();
+        }
+
+        public void RegistrarUsuario(Usuario _usuario)
+        {
+           int registros = _oGestorBD.CrearUsuario(_usuario);
+            RedirectToAction("ListadoUsuarios");
+
+        }
     }
 }

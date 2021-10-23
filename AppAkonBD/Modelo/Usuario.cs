@@ -11,11 +11,16 @@ namespace AppAkonBD.Modelo
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class Usuario
     {
+        [Key] //Anotacion de llave primario
         public int idUsuario { get; set; }
         public string nombreUsuario { get; set; }
+
+        [Display(Name ="Nombre del Departamento")] //Anotacion para modular el nombre de la propiedad
+        [MaxLength(30,ErrorMessage ="Este campo no puede ser superior a 30 caracteres")]
         public string departUsuario { get; set; }
     }
 }

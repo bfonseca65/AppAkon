@@ -9,3 +9,15 @@ C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\A
 C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\obj\Debug\AppAkonBD.csproj.CopyComplete
 C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\obj\Debug\AppAkonBD.dll
 C:\Users\bfons\Documents\Universidad II cuatri 2021\Progra4 Erick\CodeSolution\AppAkonBD\obj\Debug\AppAkonBD.pdb
+C:\AppAkon\AppAkonBD\bin\Debug\AppAkonBD.dll.config
+C:\AppAkon\AppAkonBD\bin\Debug\AppAkonBD.dll
+C:\AppAkon\AppAkonBD\bin\Debug\AppAkonBD.pdb
+C:\AppAkon\AppAkonBD\bin\Debug\EntityFramework.dll
+C:\AppAkon\AppAkonBD\bin\Debug\EntityFramework.SqlServer.dll
+C:\AppAkon\AppAkonBD\bin\Debug\EntityFramework.xml
+C:\AppAkon\AppAkonBD\bin\Debug\EntityFramework.SqlServer.xml
+C:\AppAkon\AppAkonBD\obj\Debug\AppAkonBD.csproj.AssemblyReference.cache
+C:\AppAkon\AppAkonBD\obj\Debug\AppAkonBD.csproj.CoreCompileInputs.cache
+C:\AppAkon\AppAkonBD\obj\Debug\AppAkonBD.csproj.CopyComplete
+C:\AppAkon\AppAkonBD\obj\Debug\AppAkonBD.dll
+C:\AppAkon\AppAkonBD\obj\Debug\AppAkonBD.pdb
